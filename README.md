@@ -1,16 +1,17 @@
 # GoBarber - Bootcamp GoStack da Rocketseat
 
 ## Tecnologias utilizadas:
--TypeScript: Linguagem.
--NodeJS:Ambiente de execução.
--Express: API Framework.
--JsonWebToken: Autenticação.
--Multer: Upload de arquivos.
--Postgres: Banco de dados.
--TypeORM: ORM.
--ESLint: Padronização de código.
--Jest: Testes automatizados.
--tsyringe: Lib para injeção de dependências.
+
+- TypeScript: Linguagem.
+- NodeJS:Ambiente de execução.
+- Express: API Framework.
+- JsonWebToken: Autenticação.
+- Multer: Upload de arquivos.
+- Postgres: Banco de dados.
+- TypeORM: ORM.
+- ESLint: Padronização de código.
+- Jest: Testes automatizados.
+- tsyringe: Lib para injeção de dependências.
 
 ### Descrição do projeto:
 
