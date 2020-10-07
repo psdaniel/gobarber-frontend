@@ -19,3 +19,6 @@ API GoBarber, aplicação que conecta prestadores de serviço (Barbeiros e Cabel
 
 ### Página de Cadastro:
 ![image](https://github.com/psdaniel/assets/blob/master/gobarber-web/2020-10-06%20(2).png?raw=true)
+
+### Gif:
+![Alt Text](https://github.com/psdaniel/assets/blob/master/gobarber-web/ezgif.com-gif-maker%20(1).gif?raw=true)
